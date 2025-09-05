@@ -18,7 +18,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KarloHlisc/KarloHlisc/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/KarloHlisc/KarloHlisc/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
